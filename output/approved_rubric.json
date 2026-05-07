@@ -1,0 +1,37 @@
+[
+  {
+    "dimension_id": "clarity",
+    "name": "Message Clarity",
+    "weight": 0.2,
+    "scale": "0-10",
+    "description_of_10": "Copy is instantly understandable by a non-technical trader"
+  },
+  {
+    "dimension_id": "relevance",
+    "name": "Audience Relevance",
+    "weight": 0.2,
+    "scale": "0-10",
+    "description_of_10": "Copy speaks directly to persona pain-points and goals"
+  },
+  {
+    "dimension_id": "persuasion",
+    "name": "Persuasive Impact",
+    "weight": 0.2,
+    "scale": "0-10",
+    "description_of_10": "Copy compels the reader to take the next step"
+  },
+  {
+    "dimension_id": "tone_fit",
+    "name": "Tone Alignment",
+    "weight": 0.2,
+    "scale": "0-10",
+    "description_of_10": "Copy matches the brief's approachable, empowering tone"
+  },
+  {
+    "dimension_id": "compliance",
+    "name": "Compliance Safety",
+    "weight": 0.2,
+    "scale": "0-10",
+    "description_of_10": "Copy avoids all prohibited claims and implications"
+  }
+]

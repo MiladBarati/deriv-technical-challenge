@@ -1,0 +1,770 @@
+[
+  {
+    "variant_id": "HL-01",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-01",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-02",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-02",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-03",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-03",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-04",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-04",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-05",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-05",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-06",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "HL-06",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-01",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-01",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-02",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-02",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-03",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-03",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-04",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-04",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-05",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-05",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-06",
+    "persona": "Retail Trader \u2014 Automation Curious",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  },
+  {
+    "variant_id": "CTA-06",
+    "persona": "Experienced Trader \u2014 Time Poor",
+    "dimension_scores": [
+      {
+        "dimension_id": "clarity",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Message Clarity]"
+      },
+      {
+        "dimension_id": "relevance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Audience Relevance]"
+      },
+      {
+        "dimension_id": "persuasion",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Persuasive Impact]"
+      },
+      {
+        "dimension_id": "tone_fit",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Tone Alignment]"
+      },
+      {
+        "dimension_id": "compliance",
+        "score": 7.0,
+        "rationale": "[Dummy rationale for Compliance Safety]"
+      }
+    ],
+    "total_weighted_score": 7.0
+  }
+]

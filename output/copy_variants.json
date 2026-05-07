@@ -1,0 +1,170 @@
+[
+  {
+    "variant_id": "HL-01",
+    "variant_type": "headline",
+    "angle": "fear_of_missing_out",
+    "text": "[Dummy headline for fear_of_missing_out]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "HL-02",
+    "variant_type": "headline",
+    "angle": "social_proof",
+    "text": "[Dummy headline for social_proof]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "HL-03",
+    "variant_type": "headline",
+    "angle": "benefit_led",
+    "text": "[Dummy headline for benefit_led]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "HL-04",
+    "variant_type": "headline",
+    "angle": "curiosity",
+    "text": "[Dummy headline for curiosity]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "HL-05",
+    "variant_type": "headline",
+    "angle": "empowerment",
+    "text": "[Dummy headline for empowerment]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "HL-06",
+    "variant_type": "headline",
+    "angle": "loss_aversion",
+    "text": "[Dummy headline for loss_aversion]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "CTA-01",
+    "variant_type": "cta",
+    "angle": "fear_of_missing_out",
+    "text": "[Dummy CTA for fear_of_missing_out]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "CTA-02",
+    "variant_type": "cta",
+    "angle": "social_proof",
+    "text": "[Dummy CTA for social_proof]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "CTA-03",
+    "variant_type": "cta",
+    "angle": "benefit_led",
+    "text": "[Dummy CTA for benefit_led]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "CTA-04",
+    "variant_type": "cta",
+    "angle": "curiosity",
+    "text": "[Dummy CTA for curiosity]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "CTA-05",
+    "variant_type": "cta",
+    "angle": "empowerment",
+    "text": "[Dummy CTA for empowerment]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "CTA-06",
+    "variant_type": "cta",
+    "angle": "loss_aversion",
+    "text": "[Dummy CTA for loss_aversion]",
+    "linked_headline_id": null
+  },
+  {
+    "variant_id": "SUB-01-1",
+    "variant_type": "subheadline",
+    "angle": "fear_of_missing_out",
+    "text": "[Dummy sub-headline 1 for fear_of_missing_out]",
+    "linked_headline_id": "HL-01"
+  },
+  {
+    "variant_id": "SUB-01-2",
+    "variant_type": "subheadline",
+    "angle": "fear_of_missing_out",
+    "text": "[Dummy sub-headline 2 for fear_of_missing_out]",
+    "linked_headline_id": "HL-01"
+  },
+  {
+    "variant_id": "SUB-02-1",
+    "variant_type": "subheadline",
+    "angle": "social_proof",
+    "text": "[Dummy sub-headline 1 for social_proof]",
+    "linked_headline_id": "HL-02"
+  },
+  {
+    "variant_id": "SUB-02-2",
+    "variant_type": "subheadline",
+    "angle": "social_proof",
+    "text": "[Dummy sub-headline 2 for social_proof]",
+    "linked_headline_id": "HL-02"
+  },
+  {
+    "variant_id": "SUB-03-1",
+    "variant_type": "subheadline",
+    "angle": "benefit_led",
+    "text": "[Dummy sub-headline 1 for benefit_led]",
+    "linked_headline_id": "HL-03"
+  },
+  {
+    "variant_id": "SUB-03-2",
+    "variant_type": "subheadline",
+    "angle": "benefit_led",
+    "text": "[Dummy sub-headline 2 for benefit_led]",
+    "linked_headline_id": "HL-03"
+  },
+  {
+    "variant_id": "SUB-04-1",
+    "variant_type": "subheadline",
+    "angle": "curiosity",
+    "text": "[Dummy sub-headline 1 for curiosity]",
+    "linked_headline_id": "HL-04"
+  },
+  {
+    "variant_id": "SUB-04-2",
+    "variant_type": "subheadline",
+    "angle": "curiosity",
+    "text": "[Dummy sub-headline 2 for curiosity]",
+    "linked_headline_id": "HL-04"
+  },
+  {
+    "variant_id": "SUB-05-1",
+    "variant_type": "subheadline",
+    "angle": "empowerment",
+    "text": "[Dummy sub-headline 1 for empowerment]",
+    "linked_headline_id": "HL-05"
+  },
+  {
+    "variant_id": "SUB-05-2",
+    "variant_type": "subheadline",
+    "angle": "empowerment",
+    "text": "[Dummy sub-headline 2 for empowerment]",
+    "linked_headline_id": "HL-05"
+  },
+  {
+    "variant_id": "SUB-06-1",
+    "variant_type": "subheadline",
+    "angle": "loss_aversion",
+    "text": "[Dummy sub-headline 1 for loss_aversion]",
+    "linked_headline_id": "HL-06"
+  },
+  {
+    "variant_id": "SUB-06-2",
+    "variant_type": "subheadline",
+    "angle": "loss_aversion",
+    "text": "[Dummy sub-headline 2 for loss_aversion]",
+    "linked_headline_id": "HL-06"
+  }
+]

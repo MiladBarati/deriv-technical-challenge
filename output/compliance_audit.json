@@ -1,0 +1,194 @@
+[
+  {
+    "variant_id": "HL-01",
+    "variant_text": "[Dummy headline for fear_of_missing_out]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "HL-02",
+    "variant_text": "[Dummy headline for social_proof]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "HL-03",
+    "variant_text": "[Dummy headline for benefit_led]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "HL-04",
+    "variant_text": "[Dummy headline for curiosity]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "HL-05",
+    "variant_text": "[Dummy headline for empowerment]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "HL-06",
+    "variant_text": "[Dummy headline for loss_aversion]",
+    "status": "blocker",
+    "rule_violated": "Must not imply guaranteed returns or risk-free trading",
+    "severity": "blocker",
+    "suggested_fix": "[Dummy fix: rewrite to remove guarantee implication]"
+  },
+  {
+    "variant_id": "CTA-01",
+    "variant_text": "[Dummy CTA for fear_of_missing_out]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "CTA-02",
+    "variant_text": "[Dummy CTA for social_proof]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "CTA-03",
+    "variant_text": "[Dummy CTA for benefit_led]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "CTA-04",
+    "variant_text": "[Dummy CTA for curiosity]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "CTA-05",
+    "variant_text": "[Dummy CTA for empowerment]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "CTA-06",
+    "variant_text": "[Dummy CTA for loss_aversion]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-01-1",
+    "variant_text": "[Dummy sub-headline 1 for fear_of_missing_out]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-01-2",
+    "variant_text": "[Dummy sub-headline 2 for fear_of_missing_out]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-02-1",
+    "variant_text": "[Dummy sub-headline 1 for social_proof]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-02-2",
+    "variant_text": "[Dummy sub-headline 2 for social_proof]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-03-1",
+    "variant_text": "[Dummy sub-headline 1 for benefit_led]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-03-2",
+    "variant_text": "[Dummy sub-headline 2 for benefit_led]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-04-1",
+    "variant_text": "[Dummy sub-headline 1 for curiosity]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-04-2",
+    "variant_text": "[Dummy sub-headline 2 for curiosity]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-05-1",
+    "variant_text": "[Dummy sub-headline 1 for empowerment]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-05-2",
+    "variant_text": "[Dummy sub-headline 2 for empowerment]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-06-1",
+    "variant_text": "[Dummy sub-headline 1 for loss_aversion]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  },
+  {
+    "variant_id": "SUB-06-2",
+    "variant_text": "[Dummy sub-headline 2 for loss_aversion]",
+    "status": "clear",
+    "rule_violated": null,
+    "severity": "clear",
+    "suggested_fix": null
+  }
+]
